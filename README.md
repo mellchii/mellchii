@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mellchii
 - 👀 Software Development, Web Development, Data Analysis are my areas of interest.
-- 🌱 Python.JavaScript.Java.Django.Power Platform
+- 🌱 Python | JavaScript | Java.Django | Power Platform
 - 📫 You can reach me via akogabriel@gmail.com
 
 <!---
