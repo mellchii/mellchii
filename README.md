@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mellchii
-- 👀 Web Development, Data Science and Data Analysis are my areas of interest.
-- 🌱 I’m constantly learning stuff on Web programming and Data Science.
-- 💞️ And ready to collaborate on everything Web development and Data Science
+- 👀 Software Development, Web Development, Data Analysis are my areas of interest.
+- 🌱 Python.JavaScript.Java.Django.Power Platform
 - 📫 You can reach me via akogabriel@gmail.com
 
 <!---
